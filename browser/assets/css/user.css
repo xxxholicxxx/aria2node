@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Noto Sans";
+    src: url(../fonts/NotoSans-Regular.ttf);
+}
+@font-face {
+    font-family: "Noto Sans CJK SC";
+    src: url(../fonts/NotoSansCJKsc-Regular.otf);
+}
+body {
+    font-family: "Noto Sans", "Noto Sans CJK SC", "微软雅黑", "文泉驿正黑", "黑体", sans-serif;
+}

@@ -1,0 +1,8 @@
+{
+    "name": "aria2node",
+    "version": "0.1.0",
+    "main": "./app/main.js",
+    "scripts": {
+        "start": "electron ."
+    }
+}
